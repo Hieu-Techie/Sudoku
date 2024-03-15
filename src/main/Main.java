@@ -24,4 +24,4 @@ public class Main {
 
         controller.startGame();
 	}
-}
+} 

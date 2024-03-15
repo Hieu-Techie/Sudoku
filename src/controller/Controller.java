@@ -40,4 +40,4 @@ public class Controller {
 		view.displayCompletionMessage();
 		sc.close();
 	}
-}
+} 

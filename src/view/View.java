@@ -44,4 +44,4 @@ public class View {
 	public void displayCompletionMessage() {
 		System.out.println("Chúc mừng! Sudoku đã được hoàn thành.");
 	}
-}
+} 
